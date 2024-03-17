@@ -42,7 +42,7 @@ class HalDua extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("Profilku"),
+        title: new Text("Profil"),
       ),
       body: new Center(
         child: new IconButton(
